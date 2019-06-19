@@ -1,9 +1,14 @@
 C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\model\Person.java
+C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\model\Pet.java
+C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\OwnerService.java
+C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\map\OwnerServiceMap.java
+C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\PetService.java
 C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\model\Vet.java
 C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\model\BaseEntity.java
-C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\model\Pet.java
 C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\VetService.java
 C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\model\PetType.java
-C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\OwnerService.java
+C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\map\VetServiceMap.java
+C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\map\AbstractMapService.java
+C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\CrudService.java
 C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\model\Owner.java
-C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\PetService.java
+C:\Users\szymon.szpakowski\Desktop\Java\Spring\Projects\petclinic\pet-clinic\pet-clinic-data\src\main\java\com\springframework\petclinic\services\map\PetServiceMap.java
