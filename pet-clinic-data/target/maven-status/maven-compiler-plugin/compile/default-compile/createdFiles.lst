@@ -1,0 +1,9 @@
+com\springframework\petclinic\services\OwnerService.class
+com\springframework\petclinic\model\Pet.class
+com\springframework\petclinic\model\BaseEntity.class
+com\springframework\petclinic\model\Vet.class
+com\springframework\petclinic\services\PetService.class
+com\springframework\petclinic\model\Person.class
+com\springframework\petclinic\model\PetType.class
+com\springframework\petclinic\model\Owner.class
+com\springframework\petclinic\services\VetService.class
