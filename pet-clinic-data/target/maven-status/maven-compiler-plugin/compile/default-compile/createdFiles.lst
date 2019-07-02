@@ -36,5 +36,6 @@ com\springframework\petclinic\services\PetService.class
 com\springframework\petclinic\services\map\PetTypeMapService.class
 com\springframework\petclinic\repositories\VetRepository.class
 com\springframework\petclinic\services\springdatajpa\PetTypeSDJpaService.class
+com\springframework\petclinic\formatters\PetTypeFormatter.class
 com\springframework\petclinic\model\PetType.class
 com\springframework\petclinic\model\Visit$VisitBuilder.class
